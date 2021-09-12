@@ -1,0 +1,28 @@
+body {
+    background-image: url(../_imagem/floresta.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.container {
+    position: relative;
+    width: 640px;
+    height: 360px;
+
+}
+
+.btn {
+    position: relative;
+    width: 80px;
+    padding: 10px;
+    top: 100%;
+    transform: translateY(0%);
+    transform: translateX(450%);
+    text-align: center;
+    border-radius: 10px;
+    font-size: 12px;
+    border-color: white;
+
+}
